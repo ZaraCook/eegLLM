@@ -38,5 +38,8 @@ EEG classification and regression tasks integrating an LLM for explainability.
   export HUGGINGFACE_TOKEN='your_hugging_face_token'
   ```
 * Run eegLLM.py
+  ```ssh
+  python eegLLM.py
+  ```
 * The reports will be generated for 10 of the eeg scans in your sspecified report out directory (reports_dir)
 
