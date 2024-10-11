@@ -37,7 +37,7 @@ EEG classification and regression tasks integrating an LLM for explainability.
   ```ssh
   export HUGGINGFACE_TOKEN='your_hugging_face_token'
   ```
-* Run eegLLM.py
+* Run eegConformer.py
   ```ssh
   python eegLLM.py
   ```
