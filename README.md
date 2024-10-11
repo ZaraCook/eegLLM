@@ -39,7 +39,7 @@ EEG classification and regression tasks integrating an LLM for explainability.
   ```
 * Run eegConformer.py
   ```ssh
-  python eegLLM.py
+  python eegConformer.py
   ```
 * The reports will be generated for 10 of the eeg scans in your sspecified report out directory (reports_dir)
 
