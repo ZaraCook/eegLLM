@@ -1,0 +1,25 @@
+Annotations:
+Description: Montage:TRANSVERSE BIPOLAR, Start: 7.7011, Duration: 0.0
+Description: Montage:TRANSVERSE BIPOLAR, Start: 7.7011, Duration: 0.0
+Description: Awake, Start: 9.5097, Duration: 0.0
+Description: Head Center, Start: 10.3241, Duration: 0.0
+Description: Eyes Closed, Start: 11.2206, Duration: 0.0
+Description: EEG SENS 7, Start: 12.6308, Duration: 0.0
+Description: Artifact, Start: 112.378799, Duration: 0.0
+Description: Patient Resting Quietly, Start: 178.744003, Duration: 0.0
+Description: Awake, Start: 181.863205, Duration: 0.0
+Description: L THEN R F-T SLOW, Start: 190.5858, Duration: 0.0
+Description: R TEMP SLOW, Start: 192.165894, Duration: 0.0
+Description: RT TEMP ?WICKEET, Start: 227.007706, Duration: 0.0
+Description: RT TEMP ?WICKET, Start: 228.183502, Duration: 0.0
+Description: Drowsy, Start: 284.226501, Duration: 0.0
+Description: Noise, Start: 285.665894, Duration: 0.0
+Description: F4 ARTIFACT, Start: 303.130798, Duration: 0.0
+Description: Montage:AVERAGE REFERENCE, Start: 331.685394, Duration: 0.0
+Description: Montage:AVERAGE REFERENCE, Start: 331.685394, Duration: 0.0
+Description: Drowsy, Start: 335.789001, Duration: 0.0
+Description: Head Center, Start: 336.658112, Duration: 0.0
+Description: Eyes Closed, Start: 337.851501, Duration: 0.0
+Description: EEG SENS 7, Start: 339.099487, Duration: 0.0
+Description: R F-T SLOW, Start: 356.546814, Duration: 0.0
+Description: R F-T SLOW, Start: 358.347595, Duration: 0.0

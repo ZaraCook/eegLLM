@@ -1,0 +1,28 @@
+Number of channels: 25
+Sampling frequency: 256.0 Hz
+Channels:
+C3
+C4
+Cz
+F3
+F4
+F7
+F8
+Fz
+Fp1
+Fp2
+Fpz
+O1
+O2
+P3
+P4
+Pz
+T3
+T4
+T5
+T6
+EOG1
+EOG2
+EKG1
+A1
+A2
